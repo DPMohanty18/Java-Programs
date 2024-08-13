@@ -16,7 +16,7 @@ class Shapes {
 
 }
 
-class Area {
+class area {
     public static void main(String[] args) {
         Shapes myShape = new Shapes();  // Create a Shapes object
 
